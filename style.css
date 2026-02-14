@@ -20,6 +20,7 @@
     align-items: center;
     font-size: 35px;
     font-weight: 600;
+    color: rgb(226, 0, 136);
 
 }
 
@@ -67,5 +68,5 @@
     bottom: 15px;
     right: 15px;
     cursor: pointer;
-    
+
 }
